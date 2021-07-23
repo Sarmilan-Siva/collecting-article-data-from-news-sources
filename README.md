@@ -4,5 +4,5 @@ This Repository is to collect article data from various news sources such as New
 
 ## News Sources
 
-* NYT arcive articles - [Official documentation](https://developer.nytimes.com/docs/archive-product/1/overview)
+* NYT arhcive articles - [Official documentation](https://developer.nytimes.com/docs/archive-product/1/overview)
 
